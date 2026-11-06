@@ -31,3 +31,5 @@ Then open the notebooks in Jupyter. They load the PDFs by relative path, so laun
 - This is an experiments repo, not a library. The notebooks are meant to be read top to bottom.
 - The Perplexity model name used (`llama-3.1-sonar-huge-128k-online`) has since been retired; substitute a current Perplexity model to rerun that notebook.
 - Only the top retrieved chunk is passed to the model in the evaluation functions, which is a deliberate simple baseline to improve on (more chunks, reranking, hybrid search).
+
+  --not-completed-yet--
